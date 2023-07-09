@@ -1,4 +1,5 @@
-# the-final-assault
+# The Final Assault
+
 A 3D Spaceship Shooter Game
 
 Free & Open Source
